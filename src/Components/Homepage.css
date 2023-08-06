@@ -1,0 +1,25 @@
+.home{
+    background-color: #9be6f8 ;
+    height: auto;
+
+}
+.button {
+    background-color: #9be6f8 ;
+    color: rgb(0, 0, 0);
+    border: none;
+    height: 47px;
+    border-radius: 6px;
+    width: 85px;
+}
+.block{
+    height: 53px;
+}
+.button:hover{
+    background-color: #248e9c;
+}
+#NoReminder{
+    display: none;
+}
+.numberOfReminders{
+    display: block;
+}
